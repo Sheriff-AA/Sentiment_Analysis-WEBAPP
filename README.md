@@ -23,5 +23,10 @@ WTForms==2.2.1,
 nltk>=3.4.5, 
 scikit-learn>=0.18
 
+When you have the required libraries you can now run the .py file on the command line.
+You would see something similar to the image below
 
 ![image](https://user-images.githubusercontent.com/75421013/229539224-532073e0-32ec-4ff4-b551-226e127dfd62.png)
+
+COPY THE LINK "http://127.0.0.1:5002" and paste it on your browser
+The web app is now running. This is what it would look like.
