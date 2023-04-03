@@ -22,3 +22,6 @@ Werkzeug==0.14.1,
 WTForms==2.2.1, 
 nltk>=3.4.5, 
 scikit-learn>=0.18
+
+
+![image](https://user-images.githubusercontent.com/75421013/229539224-532073e0-32ec-4ff4-b551-226e127dfd62.png)
