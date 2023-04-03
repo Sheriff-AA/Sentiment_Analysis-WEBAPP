@@ -28,5 +28,9 @@ You would see something similar to the image below
 
 ![image](https://user-images.githubusercontent.com/75421013/229539224-532073e0-32ec-4ff4-b551-226e127dfd62.png)
 
+
 COPY THE LINK "http://127.0.0.1:5002" and paste it on your browser
 The web app is now running. This is what it would look like.
+
+![image](https://user-images.githubusercontent.com/75421013/229540599-60cce715-b0a6-45a6-808d-b6d881160e4a.png)
+
